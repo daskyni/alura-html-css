@@ -1,1 +1,1 @@
-Projeto desenvolvido durante cursos de HTML e CSS da Alura.
+Projeto desenvolvido durante curso 'HTML e CSS: ambiente, estrutura e estilo' da Alura.
